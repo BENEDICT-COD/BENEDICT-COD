@@ -26,10 +26,10 @@ const skills = {
 
 ## Featured Projects
 
-- 🎓 **[Education Made Easy Durban](https://github.com/BENEDICT-COD)** — live admissions platform for a matric upgrade school, PHP/MySQL, deployed and in active use
-- 💈 **[Nova Barber Studio](https://github.com/BENEDICT-COD)** — deployed booking site with WhatsApp integration and full local SEO (JSON-LD, sitemap, structured data)
-- 🪑 **[Sinoluhle Carpentry Services]** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
-- 👕 **[Thread Cycle](https://github.com/BENEDICT-COD)** — full-stack PHP/MySQL clothing marketplace with role-based auth and stock-aware checkout
+- 🎓 **[Education Made Easy Durban]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/EDUCATION-MADE-EASY-DURBAN))** — live admissions platform for a matric upgrade school, PHP/MySQL, deployed and in active use
+- 💈 **[Nova Barber Studio]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/Nova-hair-barber-studio-website))** — deployed booking site with WhatsApp integration and full local SEO (JSON-LD, sitemap, structured data)
+- 👕 **[Thread Cycle]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/onlineshop))** — full-stack PHP/MySQL clothing marketplace with role-based auth and stock-aware checkout
+-  🪑 **Sinoluhle Carpentry Services** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
 - 📱 **Student Accommodation Finder** *(in progress)* — native Android app in Kotlin with Firebase
 
 
