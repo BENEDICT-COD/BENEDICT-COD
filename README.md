@@ -28,7 +28,7 @@ const skills = {
 
 - 🎓 **[Education Made Easy Durban](https://github.com/BENEDICT-COD)** — live admissions platform for a matric upgrade school, PHP/MySQL, deployed and in active use
 - 💈 **[Nova Barber Studio](https://github.com/BENEDICT-COD)** — deployed booking site with WhatsApp integration and full local SEO (JSON-LD, sitemap, structured data)
-- 🪑 **[Sinoluhle Carpentry Services](https://github.com/BENEDICT-COD)** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
+- 🪑 **[Sinoluhle Carpentry Services]** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
 - 👕 **[Thread Cycle](https://github.com/BENEDICT-COD)** — full-stack PHP/MySQL clothing marketplace with role-based auth and stock-aware checkout
 - 📱 **Student Accommodation Finder** *(in progress)* — native Android app in Kotlin with Firebase
 
