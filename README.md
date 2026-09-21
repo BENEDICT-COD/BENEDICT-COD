@@ -1,4 +1,4 @@
-# Hello World 👋 I'm Mpilonhle Memela
+# Hello World  I'm Mpilonhle Memela
 
 ### Final-Year Software Development Student | Freelance Web & Android Developer
 
