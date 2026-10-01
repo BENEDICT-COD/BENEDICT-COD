@@ -9,7 +9,7 @@
 I'm a final-year Diploma in Information Technology (Software Development) student at Rosebank College, and a freelance developer under the **Mansuet Dev** brand. I build full-stack web apps and native Android apps, and I've shipped several projects that are live and in use by real clients — not just coursework.
 
 ## What I'm currently building
-🎓 A final-year Kotlin/Firebase Android app that helps South African students find verified, safe accommodation
+ A final-year Kotlin/Firebase Android app that helps South African students find verified, safe accommodation
 
 ## Tech Stack
 
@@ -26,11 +26,11 @@ const skills = {
 
 ## Featured Projects
 
-- 🎓 **[Education Made Easy Durban]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/EDUCATION-MADE-EASY-DURBAN))** — live admissions platform for a matric upgrade school, PHP/MySQL, deployed and in active use
-- 💈 **[Nova Barber Studio]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/Nova-hair-barber-studio-website))** — deployed booking site with WhatsApp integration and full local SEO (JSON-LD, sitemap, structured data)
-- 👕 **[Thread Cycle]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/onlineshop))** — full-stack PHP/MySQL clothing marketplace with role-based auth and stock-aware checkout
--  🪑 **Sinoluhle Carpentry Services** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
-- 📱 **Student Accommodation Finder** *(in progress)* — native Android app in Kotlin with Firebase
+-  **[Education Made Easy Durban]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/EDUCATION-MADE-EASY-DURBAN))** — live admissions platform for a matric upgrade school, PHP/MySQL, deployed and in active use
+-  **[Nova Barber Studio]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/Nova-hair-barber-studio-website))** — deployed booking site with WhatsApp integration and full local SEO (JSON-LD, sitemap, structured data)
+-  **[Thread Cycle]([https://github.com/BENEDICT-COD](https://github.com/BENEDICT-COD/onlineshop))** — full-stack PHP/MySQL clothing marketplace with role-based auth and stock-aware checkout
+-   **Sinoluhle Carpentry Services** *(in progress)* — client site with a custom admin dashboard, Google Reviews integration, and quote tracking
+- **Student Accommodation Finder** *(in progress)* — native Android app in Kotlin with Firebase
 
 
 ## Connect
